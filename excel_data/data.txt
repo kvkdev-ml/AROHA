@@ -1,0 +1,489 @@
+Location:State->Andhra Pradesh,City->Visakhapatanam
+Disease:Acute Diarrheal Disease
+Occuring Date:17-07-2025
+Reporing Date:17-07-2025
+Number of Cases:22
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Gayatri Nagar. Loose stools and vomiting. 3 water samples unfit for potable purpose. Cases treated symptomatically.
+
+Location:State->Assam,City->Cachar
+Disease:Fever of Unknown Origin
+Occuring Date:16-07-2025
+Reporing Date:17-07-2025
+Number of Cases:19
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Rosekandi Grant, BPHC Dholai. 5 blood samples negative for Malaria by PBF. Cases treated symptomatically.
+
+Location:State->Assam,City->Hailakandi
+Disease:Fever of Unknown Origin
+Occuring Date:18-07-2025
+Reporing Date:18-07-2025
+Number of Cases:24
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Uttar Kanchanpur. 1 of 24 samples positive for Malaria (P. vivax). Cases treated symptomatically.
+
+Location:State->Assam,City->Tinsukia
+Disease:Leptospirosis
+Occuring Date:17-07-2025
+Reporing Date:18-07-2025
+Number of Cases:7
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Talap town, Kokaratoli gaon. 7 of 33 samples positive for Leptospirosis IgM by ELISA. Cases treated symptomatically.
+
+Location:State->Bihar,City->Patna
+Disease:Acute Diarrheal Disease
+Occuring Date:17-07-2025
+Reporing Date:19-07-2025
+Number of Cases:20
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Deodaha. Loose stools and vomiting. Stool samples negative for pathogens. Cases treated symptomatically.
+
+Location:State->Bihar,City->Samastipur
+Disease:Fever with Rash
+Occuring Date:14-07-2025
+Reporing Date:16-07-2025
+Number of Cases:10
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Atapur. 5 blood samples negative for Measles IgM. Age group 4-30 years. Cases treated symptomatically.
+
+Location:State->Chhattisgarh,City->Baloda Bazar
+Disease:Acute Diarrheal Disease
+Occuring Date:15-07-2025
+Reporing Date:18-07-2025
+Number of Cases:36
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Karmadih. Diarrhea and vomiting. Contaminated water likely cause. Cases treated symptomatically.
+
+Location:State->Chhattisgarh,City->Baloda Bazar
+Disease:Acute Diarrheal Disease
+Occuring Date:15-07-2025
+Reporing Date:18-07-2025
+Number of Cases:16
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Villages Bendri, Dhaura bhata. Diarrhea and vomiting. Contaminated water likely cause. Cases treated symptomatically.
+
+Location:State->Chhattisgarh,City->Janjgir-Champa
+Disease:Acute Diarrheal Disease
+Occuring Date:18-07-2025
+Reporing Date:18-07-2025
+Number of Cases:46
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Sub-District Pamgarh. Loose stools and vomiting. Contaminated water likely cause. Cases treated symptomatically.
+
+Location:State->Chhattisgarh,City->Janjgir-Champa
+Disease:Acute Diarrheal Disease
+Occuring Date:14-07-2025
+Reporing Date:15-07-2025
+Number of Cases:19
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Kuthur. Loose stools and vomiting. Contaminated water likely cause. Cases treated symptomatically.
+
+Location:State->Gujarat,City->Banas Kantha
+Disease:Acute Diarrheal Disease
+Occuring Date:14-07-2025
+Reporing Date:14-07-2025
+Number of Cases:43
+Number of Deaths:1
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Vekari. Stool positive for Cholera. A 15-year-old male expired on 14-07-2025. Cases treated symptomatically.
+
+Location:State->Gujarat,City->Gandhinagar
+Disease:Acute Diarrheal Disease
+Occuring Date:16-07-2025
+Reporing Date:18-07-2025
+Number of Cases:0
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from District Gandhinagar. 4 water samples unfit for potable purpose. Cases treated symptomatically.
+
+Location:State->Gujarat,City->Surendranagar
+Disease:Hepatitis A
+Occuring Date:17-07-2025
+Reporing Date:17-07-2025
+Number of Cases:7
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Gomta. 2 blood samples positive for Hepatitis A IgM. Water samples unfit for potable purpose.
+
+Location:State->Jammu and Kashmir,City->Pulwama
+Disease:Hepatitis A
+Occuring Date:17-07-2025
+Reporing Date:18-07-2025
+Number of Cases:19
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Mandora. 2 blood samples positive for Hepatitis A. 2 water samples unfit for potable purpose.
+
+Location:State->Jharkhand,City->East Singhbum
+Disease:Acute Diarrheal Disease
+Occuring Date:19-07-2025
+Reporing Date:19-07-2025
+Number of Cases:56
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Chalakdih. Water samples positive for E. coli and Enterococcus faecalis. Cases treated symptomatically.
+
+Location:State->Jharkhand,City->East Singhbum
+Disease:Dengue
+Occuring Date:12-07-2025
+Reporing Date:14-07-2025
+Number of Cases:18
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Gobindpur & Chota Govindpur. 18 samples positive for Dengue NS1 by ELISA. Cases treated symptomatically.
+
+Location:State->Jharkhand,City->Sahebganj
+Disease:Malaria
+Occuring Date:16-07-2025
+Reporing Date:17-07-2025
+Number of Cases:9
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Chotaudali. 9 of blood samples positive for Malaria by RDT. Cases treated with anti-malarial.
+
+Location:State->Jharkhand,City->Saraikela Kharsawan
+Disease:Acute Diarrheal Disease
+Occuring Date:18-07-2025
+Reporing Date:19-07-2025
+Number of Cases:18
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Ratai. Loose stools and vomiting. Cases treated symptomatically.
+
+Location:State->Karnataka,City->Hassan
+Disease:Suspected Food Poisoning
+Occuring Date:14-07-2025
+Reporing Date:15-07-2025
+Number of Cases:92
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Villages Karehalli, Thirupathi & Bommanahalli. All cases attended a social gathering on 13 July. Water sample unfit for potable purpose.
+
+Location:State->Kerala,City->Ernakulam
+Disease:Acute Diarrheal Disease
+Occuring Date:10-07-2025
+Reporing Date:17-07-2025
+Number of Cases:35
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Nangeli Ayurveda College. 2 water samples unfit for potable purpose (coliforms). Cases treated symptomatically.
+
+Location:State->Kerala,City->Kannur
+Disease:Hepatitis A
+Occuring Date:11-07-2025
+Reporing Date:15-07-2025
+Number of Cases:47
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Panapuzha. 7 blood samples positive for Hepatitis A by ELISA. Cases treated symptomatically.
+
+Location:State->Kerala,City->Kollam
+Disease:Hepatitis A
+Occuring Date:16-07-2025
+Reporing Date:16-07-2025
+Number of Cases:47
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Mayyanad. 7 blood samples positive for Hepatitis A. 5 water samples unfit (E. coli detected).
+
+Location:State->Kerala,City->Kottayam
+Disease:Hepatitis A
+Occuring Date:16-07-2025
+Reporing Date:17-07-2025
+Number of Cases:9
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Mundakayam. 7 blood samples positive for Hepatitis A by ELISA. Cases treated symptomatically.
+
+Location:State->Kerala,City->Malappuram
+Disease:Suspected Food Poisoning
+Occuring Date:14-07-2025
+Reporing Date:17-07-2025
+Number of Cases:40
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Health Facility Maranchery. Symptoms after attending a marriage function. Cases treated symptomatically.
+
+Location:State->Kerala,City->Palakkad
+Disease:Nipah Virus
+Occuring Date:12-07-2025
+Reporing Date:17-07-2025
+Number of Cases:1
+Number of Deaths:1
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+57-year-old male. Blood sample positive for NIPAH by RT-PCR at VRDL Manjeri and NIV Pune. Patient expired on 17-07-2025.
+
+Location:State->Kerala,City->Thiruvananthapuram
+Disease:Suspected Food Poisoning
+Occuring Date:16-07-2025
+Reporing Date:18-07-2025
+Number of Cases:36
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Navaikulam. Symptoms after lunch at GLPS Kizhakanela on 16-07-2025. Cases treated at GMCH.
+
+Location:State->Madhya Pradesh,City->Ashoknagar
+Disease:Measles
+Occuring Date:18-07-2025
+Reporing Date:18-07-2025
+Number of Cases:11
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Shankarpur. All 6 blood samples positive for Measles IgM. Age group 1-14 years.
+
+Location:State->Madhya Pradesh,City->Burhanpur
+Disease:Acute Diarrheal Disease
+Occuring Date:16-07-2025
+Reporing Date:16-07-2025
+Number of Cases:24
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Badgaon Mafi. Vomiting and loose stools. Water sample unfit for potable purpose.
+
+Location:State->Madhya Pradesh,City->Jhabua
+Disease:Acute Diarrheal Disease
+Occuring Date:12-07-2025
+Reporing Date:15-07-2025
+Number of Cases:7
+Number of Deaths:2
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Sub-District Jhabua. Water samples unfit. Two children (5 yr & 8 yr males) expired on 11-07-2025 due to severe dehydration.
+
+Location:State->Madhya Pradesh,City->Rewa
+Disease:Acute Diarrheal Disease
+Occuring Date:16-07-2025
+Reporing Date:16-07-2025
+Number of Cases:18
+Number of Deaths:1
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Bamhauri. A 95-year-old female expired on 16-07-2025. Cases treated symptomatically.
+
+Location:State->Madhya Pradesh,City->Seoni
+Disease:Acute Diarrheal Disease
+Occuring Date:16-07-2025
+Reporing Date:17-07-2025
+Number of Cases:46
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Begarwani Khurd. Loose stools. Cases treated symptomatically.
+
+Location:State->Madhya Pradesh,City->Shahdol
+Disease:Acute Diarrheal Disease
+Occuring Date:18-07-2025
+Reporing Date:18-07-2025
+Number of Cases:33
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Darshila. Loose stools. Stool samples negative. Cases treated symptomatically.
+
+Location:State->Madhya Pradesh,City->Shahdol
+Disease:Acute Diarrheal Disease
+Occuring Date:12-07-2025
+Reporing Date:14-07-2025
+Number of Cases:40
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Karhi Tola. Loose stools. Stool samples negative. Cases treated symptomatically.
+
+Location:State->Madhya Pradesh,City->Shivpuri
+Disease:Acute Diarrheal Disease
+Occuring Date:17-07-2025
+Reporing Date:18-07-2025
+Number of Cases:18
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Kumhrauwa. Loose stools and vomiting. Cases treated symptomatically.
+
+Location:State->Madhya Pradesh,City->Singrauli
+Disease:Acute Diarrheal Disease
+Occuring Date:12-07-2025
+Reporing Date:16-07-2025
+Number of Cases:37
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Makrohar. Water sample unfit for potable purpose. Cases treated symptomatically.
+
+Location:State->Maharashtra,City->Kolhapur
+Disease:Hepatitis A
+Occuring Date:16-07-2025
+Reporing Date:16-07-2025
+Number of Cases:8
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Kenwade, PHC Pimpalgaon. 8 samples positive for Hepatitis A IgM. 3 water samples unfit for potable purpose.
+
+Location:State->Maharashtra,City->Thane
+Disease:Acute Diarrheal Disease
+Occuring Date:13-07-2025
+Reporing Date:14-07-2025
+Number of Cases:35
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Bapsai. 6 water samples unfit for potable purpose. Cases treated symptomatically.
+
+Location:State->Odisha,City->Bargarh
+Disease:Acute Diarrheal Disease
+Occuring Date:20-07-2025
+Reporing Date:20-07-2025
+Number of Cases:14
+Number of Deaths:0
+Status:Under Control
+Action Taken To Mitigate the Incident:
+Cases from Village Bungapali. Vomiting and loose stools. Water samples unfit for potable purpose.
+
+Location:State->Odisha,City->Boudh
+Disease:Hepatitis A
+Occuring Date:18-07-2025
+Reporing Date:18-07-2025
+Number of Cases:19
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Kirikichi pali. 19 of 54 samples positive for Hepatitis A IgM. Water samples fit for potable purpose.
+
+Location:State->Odisha,City->Cuttack
+Disease:Acute Diarrheal Disease
+Occuring Date:13-07-2025
+Reporing Date:14-07-2025
+Number of Cases:84
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Chhatra Bazar Behera Sahi Ward No-38. Water samples unfit for potable purpose. Cases treated symptomatically.
+
+Location:State->Odisha,City->Kendujhar
+Disease:Suspected Food Poisoning (Mushroom Poisoning)
+Occuring Date:16-07-2025
+Reporing Date:16-07-2025
+Number of Cases:84
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Sub-District Sainkul. All cases consumed local Mushroom in dinner. Cases treated symptomatically.
+
+Location:State->Odisha,City->Sundargarh
+Disease:Suspected Food Poisoning
+Occuring Date:18-07-2025
+Reporing Date:18-07-2025
+Number of Cases:14
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Mahipani. Symptoms after having food in hostel meal. Cases treated symptomatically.
+
+Location:State->Punjab,City->Patiala
+Disease:Acute Diarrheal Disease
+Occuring Date:20-07-2025
+Reporing Date:20-07-2025
+Number of Cases:21
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Changera. 8 of 23 water samples unfit for potable purpose. Cases treated symptomatically.
+
+Location:State->Tamil Nadu,City->Coimbatore
+Disease:Chikungunya
+Occuring Date:16-07-2025
+Reporing Date:17-07-2025
+Number of Cases:46
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Poonga Nagar, Brindhavan Nagar. 5 blood samples negative for Chikungunya IgM. Cases treated symptomatically.
+
+Location:State->Tamil Nadu,City->The Nilgiris
+Disease:Chickenpox
+Occuring Date:17-07-2025
+Reporing Date:17-07-2025
+Number of Cases:11
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from KPS School, Aggal HSC. Fever with rash. Samples negative for Dengue, Leptospirosis, Typhoid, Malaria.
+
+Location:State->Uttar Pradesh,City->Lalitpur
+Disease:Acute Diarrheal Disease
+Occuring Date:17-07-2025
+Reporing Date:18-07-2025
+Number of Cases:23
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Bamhori Bansha. 3 water samples unfit. Age group 3-60 years. Cases treated symptomatically.
+
+Location:State->Uttar Pradesh,City->Meerut
+Disease:Food Poisoning
+Occuring Date:16-07-2025
+Reporing Date:17-07-2025
+Number of Cases:0
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Shalimar Garden area. All cases had food at a marriage function. Cases treated symptomatically.
+
+Location:State->West Bengal,City->Bankura
+Disease:Cholera
+Occuring Date:12-07-2025
+Reporing Date:17-07-2025
+Number of Cases:99
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Sub-District Gangajalghati. All 4 rectal swabs positive for Vibrio cholerae. Water sample unfit for potable purpose.
+
+Location:State->West Bengal,City->Purulia
+Disease:Cholera
+Occuring Date:15-07-2025
+Reporing Date:16-07-2025
+Number of Cases:30
+Number of Deaths:0
+Status:Under Surveillance
+Action Taken To Mitigate the Incident:
+Cases from Village Rapkata. Rectal swabs positive for Vibrio cholerae. Water sample unfit for potable purpose.
